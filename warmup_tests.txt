@@ -1,0 +1,6 @@
+Testcases for: Asterisks as last characther, followed by another asterisks, as we
+ll as any other character, as well as a newline**fsdjjvnsjainfodseifndjdbwjsdm*swefwefwewef
+
+
+Newline a
+ last characterewfwefewfweusvniuweunfweiufuwefnuivwinuewinwefioinoweu
